@@ -1,0 +1,53 @@
+/*=========================Reset_start==========================*/
+body,h1,h2,h3,h4,h5,h6,div,p,dl,dt,dd,ol,ul,li,form,table,th,td,a,img,span,strong,var,em,input,textarea,select,option{margin: 0; padding: 0;}
+html,body{font-family:"宋体","微软雅黑",Arail,Tabhoma; font-size: 12px; text-align: left;}
+ul,ol{list-style: none;}
+img{border: 0;}
+input,select,textarea{outline:0;}
+textarea{resize:none;}
+table{border-collapse: collapse; border-spacing: 0;}
+th,strong,var,em{font-weight: normal; font-style: normal;}
+a{text-decoration: none;}
+/*a:link,a:visited,a:hover,a:active{text-decoration:none;} */
+/*==========================Reset_End===========================*/
+@font-face {font-family: "iconfont";
+  src: url('//at.alicdn.com/t/font_vvpkmcofx7096bt9.eot?t=1489995088457'); /* IE9*/
+  src: url('//at.alicdn.com/t/font_vvpkmcofx7096bt9.eot?t=1489995088457#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('//at.alicdn.com/t/font_vvpkmcofx7096bt9.woff?t=1489995088457') format('woff'), /* chrome, firefox */
+  url('//at.alicdn.com/t/font_vvpkmcofx7096bt9.ttf?t=1489995088457') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('//at.alicdn.com/t/font_vvpkmcofx7096bt9.svg?t=1489995088457#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-pifu:before { content: "\e714"; }
+
+.icon-zhushe:before { content: "\e603"; }
+
+.icon-iconfont_hexinhu:before { content: "\e600"; }
+
+.icon-7:before { content: "\e606"; }
+
+.icon-chicun-copy:before { content: "\e601"; }
+
+.icon-icon9001:before { content: "\e657"; }
+
+.icon-search:before { content: "\e6a4"; }
+
+.icon-maofa:before { content: "\e692"; }
+
+.icon-xiongbu:before { content: "\e699"; }
+
+.icon-xuexilanmufenleiweidianji:before { content: "\e67a"; }
+
+.icon-note:before { content: "\e685"; }
+
+.icon-kangshuailao:before { content: "\e620"; }
+
+.icon-yachi:before { content: "\e638"; }
